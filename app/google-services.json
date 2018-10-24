@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "195527013430",
+    "firebase_url": "https://familymessagingapp.firebaseio.com",
+    "project_id": "familymessagingapp",
+    "storage_bucket": "familymessagingapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:195527013430:android:bb2d393eff1caac9",
+        "android_client_info": {
+          "package_name": "com.example.sanketpatel.familymessagingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "195527013430-fvtu6ng705ai50r1ojueacmpg3kg73ai.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sanketpatel.familymessagingapp",
+            "certificate_hash": "19aec8bb83494ab443bb520180e7f9e26745fbfb"
+          }
+        },
+        {
+          "client_id": "195527013430-k7phf5678i54rleo7fjrvceev42hs44j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIbrfxjDHHvLLgPQB5GzTCGFxORqPy75k"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "195527013430-k7phf5678i54rleo7fjrvceev42hs44j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
